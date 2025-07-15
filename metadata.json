@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": ""
+            }
+        ],
+        "Category": "",
+        "Description": "",
+        "Id": "kitty_splash",
+        "License": "",
+        "Name": "Kitty",
+        "Website": ""
+    },
+    "Keywords": "",
+    "X-Plasma-APIVersion": "2"
+}
