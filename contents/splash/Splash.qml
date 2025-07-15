@@ -30,7 +30,7 @@ Rectangle {
             anchors.centerIn: parent
 
             asynchronous: true
-            source: "images/cat.svgz"
+            source: "images/kitty.svgz"
 
             sourceSize.width: size
             sourceSize.height: size
